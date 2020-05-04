@@ -5,7 +5,7 @@ A non-planar PPE design for high speed mass production with large scale multi-ax
 	title="Face Shield X" width="800" />
 
 ## Motivation
-3D printing is widely being used for producing face shields and other PPE that are in shortage during the Codid-19 pandemic. While design solutions and production instructions are widely available for desktop 3D printers, there is a lack of information for producing the same products with large scale industrial 3D printers such as the ones we are developing at [Ai Build](https://www.ai-build.com/). The goal of this project is to share our knowledge, methods and an open-source design for increasing the efficiency of PPE production by up to 100x. With this technique, a stack of 1200 pieces can be mass manufactured per day per machine without human supervision, in under 60 seconds per piece.
+3D printing is widely being used for producing face shields and other PPE that are in shortage during the Covid-19 pandemic. While design solutions and production instructions are widely available for desktop 3D printers, there is a lack of information for producing the same products with large scale industrial 3D printers such as the ones we are developing at [Ai Build](https://www.ai-build.com/). The goal of this project is to share our knowledge, methods and an open-source design for increasing the efficiency of PPE production by up to 100x. With this technique, a stack of 1200 pieces can be mass manufactured per day per machine without human supervision, in under 60 seconds per piece.
 
 Our design is optimized with the principles below using AiSync software.
 * A large extrusion diameter (2-4mm instead of 0.4-0.8mm)
